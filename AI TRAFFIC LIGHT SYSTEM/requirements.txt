@@ -1,0 +1,7 @@
+The project relies on the following Python libraries:
+
+tkinter – For GUI-based simulation
+numpy – Numerical operations
+pandas – Reading traffic data from Excel (if applicable)
+matplotlib – For plotting performance metrics
+openpyxl – Excel file handling
