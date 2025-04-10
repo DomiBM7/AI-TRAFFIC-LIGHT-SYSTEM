@@ -1,5 +1,5 @@
 # 🚦 AI Traffic Control System
-**Author:** Bukasa Muyombo  
+Author: Bukasa Muyombo  
 
 
 ---
